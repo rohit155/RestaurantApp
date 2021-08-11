@@ -4,7 +4,7 @@
 
 [Instagram](https://instagram.com/code_with_rohit?igshid=71vfqs608pnw)
 
-I am Rohit Jangid 😃. I am from Nagpur, Maharashtra, India. I love to explore and learn iOS and Web.
+I am Rohit Jangid 😃. I am from Maharashtra, India. I love to explore and learn iOS and Web.
 ## ⚡ Technologies
 Talk to me about
 - iOS application development **Xcode & Swift**
@@ -17,7 +17,13 @@ Talk to me about
 
 ## About this App
 
-ShoeShock App is a prototype of ecommerce app with core implementation of dataflow and cart functionality.
+Restaurant App : This is a guided project from apple book with networking and more.
+
+### Steps to run the project
+- Open the restaurant server folder and double click the icon to run the server locally
+- Open the project and now you can simple use run the App.
+
+Framework - UIKit
 
 
 ```⭐️ From [rohit155](https://github.com/rohit155)```
